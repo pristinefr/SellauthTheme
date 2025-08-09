@@ -104,7 +104,7 @@
     },
     "global": {
         "properties": {
-            "theme_color": "#6571FF",
+            "theme_color": "#8a2be2",
             "primary_background_color": "#0C1427",
             "secondary_background_color": "#0A1122",
             "primary_border_color": "#000F26",
@@ -123,7 +123,12 @@
                 "left_links": [
                     {
                         "text": "Home",
-                        "link": "\/",
+                        "link": "\/#home",
+                        "shape": "regular"
+                    },
+                    {
+                        "text": "Features",
+                        "link": "\/#features",
                         "shape": "regular"
                     },
                     {
@@ -132,13 +137,8 @@
                         "shape": "regular"
                     },
                     {
-                        "text": "Status",
-                        "link": "\/status",
-                        "shape": "regular"
-                    },
-                    {
-                        "text": "Feedback",
-                        "link": "\/feedback",
+                        "text": "FAQ",
+                        "link": "\/#faq",
                         "shape": "regular"
                     }
                 ],
@@ -157,20 +157,19 @@
                 "links": [
                     {
                         "text": "Home",
-                        "link": "\/"
+                        "link": "\/#home"
+                    },
+                    {
+                        "text": "Features",
+                        "link": "\/#features"
                     },
                     {
                         "text": "Products",
                         "link": "\/#products"
                     },
                     {
-                        "text": "Feedback",
-                        "link": "\/feedback"
-                    },
-                    {
-                        "text": "Status",
-                        "link": "\/status",
-                        "shape": "regular"
+                        "text": "FAQ",
+                        "link": "\/#faq"
                     },
                     {
                         "text": "Terms of Service",
